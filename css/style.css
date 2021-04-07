@@ -25,7 +25,7 @@ nav,aside{
 }
 
 article{
-    background-color: darkcyan;
+    background-color: rgb(100, 141, 216);
     width: 300%;
     height: 900px;
     margin: 5px;
@@ -41,5 +41,5 @@ nav{
 
 }
 
-aside{
-}
+
+
